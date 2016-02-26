@@ -1,0 +1,17 @@
+{
+  "name": "brygga-nunjucks",
+  "version": "0.2.0",
+  "description": "Nunjucks extension for Brygga",
+  "author": "Andreas Holstenson <a@holstenson.se>",
+  "license": "MIT",
+  "repository": "LevelFourAB/brygga-nunjucks",
+  "keywords": [ "brygga-plugin" ],
+  "peerDependencies": {
+    "brygga": "*"
+  },
+  "dependencies": {
+    "gulp-nunjucks-render": "^1.0.0",
+    "gray-matter": "^2.0.2",
+    "gulp-data": "^1.2.1"
+  }
+}
